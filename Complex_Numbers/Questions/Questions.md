@@ -1,6 +1,34 @@
 # Questions 
 
 ### Q1
+Two numbers are defined as:
+
+<img src="https://render.githubusercontent.com/render/math?math=z_1 = 3 %2B\ 4i "> 
+
+<img src="https://render.githubusercontent.com/render/math?math=z_2 = 1 - 2i "> 
+
+Express the following in the form <img src="https://render.githubusercontent.com/render/math?math=z = a %2B\ bi ">:
+
+a) <img src="https://render.githubusercontent.com/render/math?math=z_1z_2 ">
+
+b) <img src="https://render.githubusercontent.com/render/math?math=z_1^*z_2 ">
+
+c) <img src="https://render.githubusercontent.com/render/math?math=|z_2|^2 ">
+
+d) <img src="https://render.githubusercontent.com/render/math?math=\displastyle \frac{z_1}{z_2}">
+
+e) <img src="https://render.githubusercontent.com/render/math?math=\displastyle \frac{z_1z_1^*}{z_2}">
+
+
+### Q2
+By expressing <img src="https://render.githubusercontent.com/render/math?math=z = x %2B\ iy ">, solve the following equations:
+
+a) <img src="https://render.githubusercontent.com/render/math?math=8iz %2B\ 2z^* = 12 "> 
+
+b) <img src="https://render.githubusercontent.com/render/math?math=(iz)^* = 8 "> 
+
+c) <img src="https://render.githubusercontent.com/render/math?math=(1 %2B\ i)z - z^* = i ">
+
 
 ### Q3
 Find the roots of the equation given that one root is <img src="https://render.githubusercontent.com/render/math?math=z=2">:
