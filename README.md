@@ -1,4 +1,4 @@
-# Maths_Courses
+# Maths Courses
 
 Welcome to the Mathematics section.
 
